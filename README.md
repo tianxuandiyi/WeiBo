@@ -13,7 +13,7 @@
 2、Oauth开放平台认证过程<br />
 
 <p>
-	![image](https://github.com/tianxuandiyi/WeiBo/blob/master/picture/2.png) &nbsp;&nbsp;
+	![image](https://github.com/tianxuandiyi/WeiBo/blob/master/picture/2.png)
 </p>
 <p>
 	<br />
@@ -23,7 +23,7 @@
 	3、系统主要结构
 </p>
 <p>
-	![image](https://github.com/tianxuandiyi/WeiBo/blob/master/picture/system.png) &nbsp;&nbsp;
+	![image](https://github.com/tianxuandiyi/WeiBo/blob/master/picture/system.png)
 </p>
 <p>
 	<br />
@@ -33,7 +33,7 @@
 	4、Logic层主要过程
 </p>
 <p>
-	![image](https://github.com/tianxuandiyi/WeiBo/blob/master/picture/logic1.png) &nbsp;&nbsp;
+	![image](https://github.com/tianxuandiyi/WeiBo/blob/master/picture/logic1.png)
 </p>
 <p>
 	<br />
@@ -42,5 +42,4 @@
 <p>
 	5、Logic &nbsp;的mainService主要流程
 </p>
-![image](https://github.com/tianxuandiyi/WeiBo/blob/master/picture/mainService.png) &nbsp;&nbsp;<br />
-<br />
+![image](https://github.com/tianxuandiyi/WeiBo/blob/master/picture/mainService.png)<br />
