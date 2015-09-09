@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, LogoActivity!</string>
+    <string name="app_name">Iweibo</string>
+    <string name="login">登 录</string>
+    <string name="authTip">授权提示</string>
+    <string name="authTipMsg">是否使用您的新浪 微博账号进行授权</string>
+    <string name="auth_url_empty">授权地址为空</string>
+    <string name="get_access_token_ing">正在获取用户授权信息...</string>
+    <string name="loading">正在加载...</string>
+    <string name="loading_auth_url">正在获取授权地址...</string>
+    
+    <string name="home">主页</string>
+    <string name="at">提及</string>
+    <string name="msg">信息</string>
+    <string name="more">更多</string>
+</resources>

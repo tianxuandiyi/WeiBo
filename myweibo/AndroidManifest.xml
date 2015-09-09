@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.droidstouch.iweibo"
+      android:versionCode="1"
+      android:versionName="1.0">
+
+
+    <application android:icon="@drawable/icon" android:label="@string/app_name">
+        <activity android:name=".ui.LogoActivity"
+                  android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+		<activity android:name=".ui.LoginActivity" android:theme="@style/theme_fullScreen"/>
+		<activity android:name=".ui.AuthActivity" android:theme="@style/theme_fullScreen"/>
+		<activity android:name=".ui.WebViewActivity" android:theme="@style/theme_fullScreen"/>
+		<activity android:name=".ui.AccessTokenActivity" android:theme="@style/theme_fullScreen"/>
+		<activity android:name=".ui.MainActivity" android:theme="@style/theme_fullScreen"/>
+		<activity android:name=".ui.HomeActivity" android:theme="@style/theme_noTitle"/>
+		<activity android:name=".ui.AtActivity" android:theme="@style/theme_fullScreen"/>
+		<activity android:name=".ui.MsgActivity" android:theme="@style/theme_fullScreen"/>
+		<activity android:name=".ui.MoreActivity" android:theme="@style/theme_fullScreen"/>
+
+		<service android:name=".logic.MainService"/>
+    </application>
+    
+   <uses-permission android:name="android.permission.INTERNET"/>
+    
+</manifest>
