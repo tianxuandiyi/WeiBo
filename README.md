@@ -40,6 +40,6 @@
 	
 </p>
 <p>
-	5、Logic &nbsp;的mainService主要流程
+	5、Logic的mainService主要流程
 </p>
 ![image](https://github.com/tianxuandiyi/WeiBo/blob/master/picture/mainService.png)<br />
